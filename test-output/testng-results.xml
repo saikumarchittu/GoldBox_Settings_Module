@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-15T17:38:35 IST" name="Default suite" finished-at="2024-07-15T17:43:18 IST" duration-ms="283875">
+    <groups>
+    </groups>
+    <test started-at="2024-07-15T17:38:35 IST" name="Default test" finished-at="2024-07-15T17:43:18 IST" duration-ms="283875">
+      <class name="Settings_Positive.Otp_Module">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:Settings_Positive.Otp_Module@28261e8e]" started-at="2024-07-15T17:38:35 IST" name="bsConfig" finished-at="2024-07-15T17:38:35 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:Settings_Positive.Otp_Module@28261e8e]" started-at="2024-07-15T17:38:35 IST" name="bcConfig" finished-at="2024-07-15T17:38:47 IST" duration-ms="12181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:Settings_Positive.Otp_Module@28261e8e]" started-at="2024-07-15T17:38:47 IST" name="bmConfig" finished-at="2024-07-15T17:39:04 IST" duration-ms="17608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="AddFmsUSer()[pri:0, instance:Settings_Positive.Otp_Module@28261e8e]" started-at="2024-07-15T17:39:04 IST" name="AddFmsUSer" finished-at="2024-07-15T17:39:38 IST" duration-ms="33783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddFmsUSer -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:Settings_Positive.Otp_Module@28261e8e]" started-at="2024-07-15T17:39:38 IST" name="amConfig" finished-at="2024-07-15T17:39:50 IST" duration-ms="11920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:Settings_Positive.Otp_Module@28261e8e]" started-at="2024-07-15T17:39:50 IST" name="bmConfig" finished-at="2024-07-15T17:40:08 IST" duration-ms="17442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="OtpList()[pri:0, instance:Settings_Positive.Otp_Module@28261e8e]" started-at="2024-07-15T17:40:08 IST" name="OtpList" finished-at="2024-07-15T17:40:23 IST" duration-ms="15379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OtpList -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:Settings_Positive.Otp_Module@28261e8e]" started-at="2024-07-15T17:40:23 IST" name="amConfig" finished-at="2024-07-15T17:40:35 IST" duration-ms="11674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:Settings_Positive.Otp_Module@28261e8e]" started-at="2024-07-15T17:40:35 IST" name="bmConfig" finished-at="2024-07-15T17:40:52 IST" duration-ms="17405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="Payment_Management()[pri:0, instance:Settings_Positive.Otp_Module@28261e8e]" started-at="2024-07-15T17:40:52 IST" name="Payment_Management" finished-at="2024-07-15T17:41:17 IST" duration-ms="25297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Payment_Management -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:Settings_Positive.Otp_Module@28261e8e]" started-at="2024-07-15T17:41:17 IST" name="amConfig" finished-at="2024-07-15T17:41:31 IST" duration-ms="13514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:Settings_Positive.Otp_Module@28261e8e]" started-at="2024-07-15T17:41:31 IST" name="bmConfig" finished-at="2024-07-15T17:41:48 IST" duration-ms="17401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="Performing_App_Management()[pri:0, instance:Settings_Positive.Otp_Module@28261e8e]" started-at="2024-07-15T17:41:48 IST" name="Performing_App_Management" finished-at="2024-07-15T17:41:59 IST" duration-ms="10652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Performing_App_Management -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:Settings_Positive.Otp_Module@28261e8e]" started-at="2024-07-15T17:41:59 IST" name="amConfig" finished-at="2024-07-15T17:42:11 IST" duration-ms="11595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:Settings_Positive.Otp_Module@28261e8e]" started-at="2024-07-15T17:42:11 IST" name="bmConfig" finished-at="2024-07-15T17:42:28 IST" duration-ms="17370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="Roles()[pri:0, instance:Settings_Positive.Otp_Module@28261e8e]" started-at="2024-07-15T17:42:28 IST" name="Roles" finished-at="2024-07-15T17:43:05 IST" duration-ms="37567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Roles -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:Settings_Positive.Otp_Module@28261e8e]" started-at="2024-07-15T17:43:05 IST" name="amConfig" finished-at="2024-07-15T17:43:17 IST" duration-ms="11649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:Settings_Positive.Otp_Module@28261e8e]" started-at="2024-07-15T17:43:17 IST" name="acConfig" finished-at="2024-07-15T17:43:18 IST" duration-ms="1366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:Settings_Positive.Otp_Module@28261e8e]" started-at="2024-07-15T17:43:19 IST" name="asConfig" finished-at="2024-07-15T17:43:19 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- Settings_Positive.Otp_Module -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
